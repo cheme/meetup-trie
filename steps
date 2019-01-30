@@ -1,0 +1,13 @@
+
+# first meetup
+- https://www.rust-lang.org/tools/install
+- cargo init
+- cargo run
+
+# all good thanks.
+
+# trie usage
+- add deps
+- add content in trie in main
+- load content from kvdb -> git branch fetch at this point
+
